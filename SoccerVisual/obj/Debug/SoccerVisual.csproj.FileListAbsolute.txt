@@ -1,0 +1,101 @@
+d:\users\franc\documents\visual studio 2017\Projects\SoccerVisual\SoccerVisual\obj\Debug\SoccerVisual.csprojResolveAssemblyReference.cache
+d:\users\franc\documents\visual studio 2017\Projects\SoccerVisual\SoccerVisual\obj\Debug\SoccerVisual.Form1.resources
+d:\users\franc\documents\visual studio 2017\Projects\SoccerVisual\SoccerVisual\obj\Debug\SoccerVisual.Properties.Resources.resources
+d:\users\franc\documents\visual studio 2017\Projects\SoccerVisual\SoccerVisual\obj\Debug\SoccerVisual.csproj.GenerateResource.Cache
+d:\users\franc\documents\visual studio 2017\Projects\SoccerVisual\SoccerVisual\bin\Debug\SoccerVisual.exe.config
+d:\users\franc\documents\visual studio 2017\Projects\SoccerVisual\SoccerVisual\bin\Debug\SoccerVisual.exe
+d:\users\franc\documents\visual studio 2017\Projects\SoccerVisual\SoccerVisual\bin\Debug\SoccerVisual.pdb
+d:\users\franc\documents\visual studio 2017\Projects\SoccerVisual\SoccerVisual\obj\Debug\SoccerVisual.exe
+d:\users\franc\documents\visual studio 2017\Projects\SoccerVisual\SoccerVisual\obj\Debug\SoccerVisual.pdb
+d:\users\franc\documents\visual studio 2017\Projects\SoccerVisual\SoccerVisual\obj\Debug\SoccerVisual.Form2.resources
+C:\Users\gabri\Desktop\Trimestre 3\SoccerVisual\SoccerVisual\bin\Debug\SoccerVisual.exe.config
+C:\Users\gabri\Desktop\Trimestre 3\SoccerVisual\SoccerVisual\obj\Debug\SoccerVisual.exe
+C:\Users\gabri\Desktop\Trimestre 3\SoccerVisual\SoccerVisual\obj\Debug\SoccerVisual.pdb
+C:\Users\gabri\Desktop\Trimestre 3\SoccerVisual\SoccerVisual\bin\Debug\SoccerVisual.exe
+C:\Users\gabri\Desktop\Trimestre 3\SoccerVisual\SoccerVisual\bin\Debug\SoccerVisual.pdb
+C:\Users\gabri\Desktop\Trimestre 3\SoccerVisual\SoccerVisual\obj\Debug\SoccerVisual.csprojResolveAssemblyReference.cache
+C:\Users\gabri\Desktop\Trimestre 3\SoccerVisual\SoccerVisual\obj\Debug\SoccerVisual.Form1.resources
+C:\Users\gabri\Desktop\Trimestre 3\SoccerVisual\SoccerVisual\obj\Debug\SoccerVisual.Form2.resources
+C:\Users\gabri\Desktop\Trimestre 3\SoccerVisual\SoccerVisual\obj\Debug\SoccerVisual.Properties.Resources.resources
+C:\Users\gabri\Desktop\Trimestre 3\SoccerVisual\SoccerVisual\obj\Debug\SoccerVisual.csproj.GenerateResource.Cache
+C:\Users\gabri\Desktop\Trimestre 3\SoccerVisual\SoccerVisual\bin\Debug\Interop.WMPLib.dll
+C:\Users\gabri\Desktop\Trimestre 3\SoccerVisual\SoccerVisual\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\gabri\Desktop\Trimestre 3\SoccerVisual\SoccerVisual\obj\Debug\Interop.WMPLib.dll
+C:\Users\gabri\Desktop\Trimestre 3\SoccerVisual\SoccerVisual\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\gabri\Desktop\Trimestre 3\SoccerVisual\SoccerVisual\obj\Debug\SoccerVisual.csproj.ResolveComReference.cache
+C:\Users\gabri\Desktop\Trimestre 3\SoccerVisual\SoccerVisual\obj\Debug\SoccerVisual.Form3.resources
+C:\Users\gabri\Desktop\SoccerVisualEditado\SoccerVisual\bin\Debug\SoccerVisual.exe.config
+C:\Users\gabri\Desktop\SoccerVisualEditado\SoccerVisual\obj\Debug\Interop.WMPLib.dll
+C:\Users\gabri\Desktop\SoccerVisualEditado\SoccerVisual\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\gabri\Desktop\SoccerVisualEditado\SoccerVisual\obj\Debug\SoccerVisual.csproj.ResolveComReference.cache
+C:\Users\gabri\Desktop\SoccerVisualEditado\SoccerVisual\obj\Debug\SoccerVisual.exe
+C:\Users\gabri\Desktop\SoccerVisualEditado\SoccerVisual\obj\Debug\SoccerVisual.pdb
+C:\Users\gabri\Desktop\SoccerVisualEditado\SoccerVisual\bin\Debug\SoccerVisual.exe
+C:\Users\gabri\Desktop\SoccerVisualEditado\SoccerVisual\bin\Debug\SoccerVisual.pdb
+C:\Users\gabri\Desktop\SoccerVisualEditado\SoccerVisual\bin\Debug\Interop.WMPLib.dll
+C:\Users\gabri\Desktop\SoccerVisualEditado\SoccerVisual\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\gabri\Desktop\SoccerVisualEditado\SoccerVisual\obj\Debug\SoccerVisual.csprojResolveAssemblyReference.cache
+C:\Users\gabri\Desktop\SoccerVisualEditado\SoccerVisual\obj\Debug\SoccerVisual.Form1.resources
+C:\Users\gabri\Desktop\SoccerVisualEditado\SoccerVisual\obj\Debug\SoccerVisual.Form2.resources
+C:\Users\gabri\Desktop\SoccerVisualEditado\SoccerVisual\obj\Debug\SoccerVisual.Form3.resources
+C:\Users\gabri\Desktop\SoccerVisualEditado\SoccerVisual\obj\Debug\SoccerVisual.Form4.resources
+C:\Users\gabri\Desktop\SoccerVisualEditado\SoccerVisual\obj\Debug\SoccerVisual.Properties.Resources.resources
+C:\Users\gabri\Desktop\SoccerVisualEditado\SoccerVisual\obj\Debug\SoccerVisual.csproj.GenerateResource.Cache
+C:\Users\gabri\Desktop\Trimestre 4\SoccerVisualEditado\SoccerVisual\bin\Debug\SoccerVisual.exe.config
+C:\Users\gabri\Desktop\Trimestre 4\SoccerVisualEditado\SoccerVisual\obj\Debug\Interop.WMPLib.dll
+C:\Users\gabri\Desktop\Trimestre 4\SoccerVisualEditado\SoccerVisual\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\gabri\Desktop\Trimestre 4\SoccerVisualEditado\SoccerVisual\obj\Debug\SoccerVisual.csproj.ResolveComReference.cache
+C:\Users\gabri\Desktop\Trimestre 4\SoccerVisualEditado\SoccerVisual\obj\Debug\SoccerVisual.exe
+C:\Users\gabri\Desktop\Trimestre 4\SoccerVisualEditado\SoccerVisual\obj\Debug\SoccerVisual.pdb
+C:\Users\gabri\Desktop\Trimestre 4\SoccerVisualEditado\SoccerVisual\bin\Debug\SoccerVisual.exe
+C:\Users\gabri\Desktop\Trimestre 4\SoccerVisualEditado\SoccerVisual\bin\Debug\SoccerVisual.pdb
+C:\Users\gabri\Desktop\Trimestre 4\SoccerVisualEditado\SoccerVisual\bin\Debug\Interop.WMPLib.dll
+C:\Users\gabri\Desktop\Trimestre 4\SoccerVisualEditado\SoccerVisual\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\gabri\Desktop\Trimestre 4\SoccerVisualEditado\SoccerVisual\obj\Debug\SoccerVisual.csprojResolveAssemblyReference.cache
+C:\Users\gabri\Desktop\Trimestre 4\SoccerVisualEditado\SoccerVisual\obj\Debug\SoccerVisual.Form1.resources
+C:\Users\gabri\Desktop\Trimestre 4\SoccerVisualEditado\SoccerVisual\obj\Debug\SoccerVisual.Form2.resources
+C:\Users\gabri\Desktop\Trimestre 4\SoccerVisualEditado\SoccerVisual\obj\Debug\SoccerVisual.Form3.resources
+C:\Users\gabri\Desktop\Trimestre 4\SoccerVisualEditado\SoccerVisual\obj\Debug\SoccerVisual.Form4.resources
+C:\Users\gabri\Desktop\Trimestre 4\SoccerVisualEditado\SoccerVisual\obj\Debug\SoccerVisual.Properties.Resources.resources
+C:\Users\gabri\Desktop\Trimestre 4\SoccerVisualEditado\SoccerVisual\obj\Debug\SoccerVisual.csproj.GenerateResource.Cache
+C:\Users\gabri\Desktop\Trimestre 4\Tecnica Fundamentales\Proyecto Final\SoccerVisualEditado\SoccerVisual\bin\Debug\SoccerVisual.exe.config
+C:\Users\gabri\Desktop\Trimestre 4\Tecnica Fundamentales\Proyecto Final\SoccerVisualEditado\SoccerVisual\obj\Debug\Interop.WMPLib.dll
+C:\Users\gabri\Desktop\Trimestre 4\Tecnica Fundamentales\Proyecto Final\SoccerVisualEditado\SoccerVisual\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\gabri\Desktop\Trimestre 4\Tecnica Fundamentales\Proyecto Final\SoccerVisualEditado\SoccerVisual\obj\Debug\SoccerVisual.csproj.ResolveComReference.cache
+C:\Users\gabri\Desktop\Trimestre 4\Tecnica Fundamentales\Proyecto Final\SoccerVisualEditado\SoccerVisual\obj\Debug\SoccerVisual.exe
+C:\Users\gabri\Desktop\Trimestre 4\Tecnica Fundamentales\Proyecto Final\SoccerVisualEditado\SoccerVisual\obj\Debug\SoccerVisual.pdb
+C:\Users\gabri\Desktop\INTEC\Trimestre 4\Tecnica Fundamentales\Proyecto Final\SoccerVisualEditado\SoccerVisual\bin\Debug\SoccerVisual.exe.config
+C:\Users\gabri\Desktop\INTEC\Trimestre 4\Tecnica Fundamentales\Proyecto Final\SoccerVisualEditado\SoccerVisual\bin\Debug\SoccerVisual.exe
+C:\Users\gabri\Desktop\INTEC\Trimestre 4\Tecnica Fundamentales\Proyecto Final\SoccerVisualEditado\SoccerVisual\bin\Debug\SoccerVisual.pdb
+C:\Users\gabri\Desktop\INTEC\Trimestre 4\Tecnica Fundamentales\Proyecto Final\SoccerVisualEditado\SoccerVisual\bin\Debug\Interop.WMPLib.dll
+C:\Users\gabri\Desktop\INTEC\Trimestre 4\Tecnica Fundamentales\Proyecto Final\SoccerVisualEditado\SoccerVisual\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\gabri\Desktop\INTEC\Trimestre 4\Tecnica Fundamentales\Proyecto Final\SoccerVisualEditado\SoccerVisual\obj\Debug\SoccerVisual.csprojResolveAssemblyReference.cache
+C:\Users\gabri\Desktop\INTEC\Trimestre 4\Tecnica Fundamentales\Proyecto Final\SoccerVisualEditado\SoccerVisual\obj\Debug\Interop.WMPLib.dll
+C:\Users\gabri\Desktop\INTEC\Trimestre 4\Tecnica Fundamentales\Proyecto Final\SoccerVisualEditado\SoccerVisual\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\gabri\Desktop\INTEC\Trimestre 4\Tecnica Fundamentales\Proyecto Final\SoccerVisualEditado\SoccerVisual\obj\Debug\SoccerVisual.csproj.ResolveComReference.cache
+C:\Users\gabri\Desktop\INTEC\Trimestre 4\Tecnica Fundamentales\Proyecto Final\SoccerVisualEditado\SoccerVisual\obj\Debug\SoccerVisual.Form1.resources
+C:\Users\gabri\Desktop\INTEC\Trimestre 4\Tecnica Fundamentales\Proyecto Final\SoccerVisualEditado\SoccerVisual\obj\Debug\SoccerVisual.Form2.resources
+C:\Users\gabri\Desktop\INTEC\Trimestre 4\Tecnica Fundamentales\Proyecto Final\SoccerVisualEditado\SoccerVisual\obj\Debug\SoccerVisual.Form3.resources
+C:\Users\gabri\Desktop\INTEC\Trimestre 4\Tecnica Fundamentales\Proyecto Final\SoccerVisualEditado\SoccerVisual\obj\Debug\SoccerVisual.Form4.resources
+C:\Users\gabri\Desktop\INTEC\Trimestre 4\Tecnica Fundamentales\Proyecto Final\SoccerVisualEditado\SoccerVisual\obj\Debug\SoccerVisual.Properties.Resources.resources
+C:\Users\gabri\Desktop\INTEC\Trimestre 4\Tecnica Fundamentales\Proyecto Final\SoccerVisualEditado\SoccerVisual\obj\Debug\SoccerVisual.csproj.GenerateResource.Cache
+C:\Users\gabri\Desktop\INTEC\Trimestre 4\Tecnica Fundamentales\Proyecto Final\SoccerVisualEditado\SoccerVisual\obj\Debug\SoccerVisual.exe
+C:\Users\gabri\Desktop\INTEC\Trimestre 4\Tecnica Fundamentales\Proyecto Final\SoccerVisualEditado\SoccerVisual\obj\Debug\SoccerVisual.pdb
+C:\Users\Gabo-PC\Desktop\INTEC\Trimestre 04\Tecnica Fundamentales\Proyecto Final\SoccerVisualEditado\SoccerVisual\bin\Debug\SoccerVisual.exe.config
+C:\Users\Gabo-PC\Desktop\INTEC\Trimestre 04\Tecnica Fundamentales\Proyecto Final\SoccerVisualEditado\SoccerVisual\bin\Debug\SoccerVisual.exe
+C:\Users\Gabo-PC\Desktop\INTEC\Trimestre 04\Tecnica Fundamentales\Proyecto Final\SoccerVisualEditado\SoccerVisual\bin\Debug\SoccerVisual.pdb
+C:\Users\Gabo-PC\Desktop\INTEC\Trimestre 04\Tecnica Fundamentales\Proyecto Final\SoccerVisualEditado\SoccerVisual\bin\Debug\Interop.WMPLib.dll
+C:\Users\Gabo-PC\Desktop\INTEC\Trimestre 04\Tecnica Fundamentales\Proyecto Final\SoccerVisualEditado\SoccerVisual\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Gabo-PC\Desktop\INTEC\Trimestre 04\Tecnica Fundamentales\Proyecto Final\SoccerVisualEditado\SoccerVisual\obj\Debug\SoccerVisual.csprojAssemblyReference.cache
+C:\Users\Gabo-PC\Desktop\INTEC\Trimestre 04\Tecnica Fundamentales\Proyecto Final\SoccerVisualEditado\SoccerVisual\obj\Debug\Interop.WMPLib.dll
+C:\Users\Gabo-PC\Desktop\INTEC\Trimestre 04\Tecnica Fundamentales\Proyecto Final\SoccerVisualEditado\SoccerVisual\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Gabo-PC\Desktop\INTEC\Trimestre 04\Tecnica Fundamentales\Proyecto Final\SoccerVisualEditado\SoccerVisual\obj\Debug\SoccerVisual.csproj.ResolveComReference.cache
+C:\Users\Gabo-PC\Desktop\INTEC\Trimestre 04\Tecnica Fundamentales\Proyecto Final\SoccerVisualEditado\SoccerVisual\obj\Debug\SoccerVisual.Form1.resources
+C:\Users\Gabo-PC\Desktop\INTEC\Trimestre 04\Tecnica Fundamentales\Proyecto Final\SoccerVisualEditado\SoccerVisual\obj\Debug\SoccerVisual.Form2.resources
+C:\Users\Gabo-PC\Desktop\INTEC\Trimestre 04\Tecnica Fundamentales\Proyecto Final\SoccerVisualEditado\SoccerVisual\obj\Debug\SoccerVisual.Form3.resources
+C:\Users\Gabo-PC\Desktop\INTEC\Trimestre 04\Tecnica Fundamentales\Proyecto Final\SoccerVisualEditado\SoccerVisual\obj\Debug\SoccerVisual.Form4.resources
+C:\Users\Gabo-PC\Desktop\INTEC\Trimestre 04\Tecnica Fundamentales\Proyecto Final\SoccerVisualEditado\SoccerVisual\obj\Debug\SoccerVisual.Properties.Resources.resources
+C:\Users\Gabo-PC\Desktop\INTEC\Trimestre 04\Tecnica Fundamentales\Proyecto Final\SoccerVisualEditado\SoccerVisual\obj\Debug\SoccerVisual.csproj.GenerateResource.cache
+C:\Users\Gabo-PC\Desktop\INTEC\Trimestre 04\Tecnica Fundamentales\Proyecto Final\SoccerVisualEditado\SoccerVisual\obj\Debug\SoccerVisual.csproj.CoreCompileInputs.cache
+C:\Users\Gabo-PC\Desktop\INTEC\Trimestre 04\Tecnica Fundamentales\Proyecto Final\SoccerVisualEditado\SoccerVisual\obj\Debug\SoccerVisual.exe
+C:\Users\Gabo-PC\Desktop\INTEC\Trimestre 04\Tecnica Fundamentales\Proyecto Final\SoccerVisualEditado\SoccerVisual\obj\Debug\SoccerVisual.pdb

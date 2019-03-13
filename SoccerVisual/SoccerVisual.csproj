@@ -1,0 +1,227 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{FBBF9B17-BF1F-4C58-B417-CCA4A0E9787C}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>SoccerVisual</RootNamespace>
+    <AssemblyName>SoccerVisual</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form2.Designer.cs">
+      <DependentUpon>Form2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form3.Designer.cs">
+      <DependentUpon>Form3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form4.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form4.Designer.cs">
+      <DependentUpon>Form4.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Manager.cs" />
+    <Compile Include="Player.cs" />
+    <Compile Include="Posicion.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SoundEffect.cs" />
+    <Compile Include="Team.cs" />
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form2.resx">
+      <DependentUpon>Form2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form3.resx">
+      <DependentUpon>Form3.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form4.resx">
+      <DependentUpon>Form4.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\free-soccer-field-vector.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Rot_und_Gelb_%28Fußball%29-red_and_yellow_card_%28Soccer%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\15447-TarjetaRoja20151224-1683-p6s6y5.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cards.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\thumbnail_PolocheTeam1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\thumbnail_PolocheTeam2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\PolocheTeam2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\74123.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\741231.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\344x194-clock-digital-image-3389303.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\vinilo-infantil-pelota-futbol-1400.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Tarjeta.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Fondo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Fondo2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cooltext250277263358357.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cooltext2502772633583571.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Kenny G - Forever In Love.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Kenny G - Songbird.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="AxWMPLib">
+      <Guid>{6BF52A50-394A-11D3-B153-00C04F79FAA6}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>aximp</WrapperTool>
+      <Isolated>False</Isolated>
+    </COMReference>
+    <COMReference Include="WMPLib">
+      <Guid>{6BF52A50-394A-11D3-B153-00C04F79FAA6}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\interrogation.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\question-mark-1829459_960_720.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cooltext250283926647251.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fondo-negro.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Rey.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Logo Sin Fondo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\depositphotos_46707819-stock-illustration-black-and-white-background-with.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Fondo3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\question-mark-31190_960_720.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\003006-simple-red-glossy-icon-media-a-media31-back.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fondo-negro_1205-436.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\background-1783898_960_720.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Pj1.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

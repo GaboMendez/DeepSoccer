@@ -1,0 +1,90 @@
+                            00:00 
+El equipo Francia ha realizado un pase fallido, la pelota pertenece al equipo de Computador.La pelota ha salido de la cancha, ahora le pertenece al equipo: Francia.
+                            03:00 
+El equipo Francia ha anotado gol, la cuenta actual es: 1-0.
+                            06:00 
+El equipo Computador ha realizado un pase fallido, la pelota pertenece al equipo de Francia.
+                            09:00 
+El equipo Francia ha logrado un pase exitoso al jugador: 43.
+                            12:00 
+Posicion adelantada(Regla #11) por parte de: 21.El equipo Francia ha realizado un pase fallido, la pelota pertenece al equipo de Computador.
+                            15:00 
+El equipo Computador ha logrado un pase exitoso al jugador: 37.
+                            18:00 
+El equipo Computador ha realizado un pase fallido, la pelota pertenece al equipo de Francia.
+                            21:00 
+Posicion adelantada(Regla #11) por parte de: 24.El equipo Francia ha realizado un pase fallido, la pelota pertenece al equipo de Computador.
+                            24:00 
+El equipo Computador intento y fallo meter gol, La pelota le pertenece al equipo de Francia.
+                            27:00 
+Posicion adelantada(Regla #11) por parte de: 22.El equipo Francia ha realizado un pase fallido, la pelota pertenece al equipo de Computador.
+                            30:00 
+El equipo Computador intento y fallo meter gol, La pelota le pertenece al equipo de Francia.El jugador numero 42 Ha recibido una tarjeta roja. Razon por la cual fue suplantado por el jugador numero: 61. Se ha cometido una falta. La pelota ahora esta en manos del equipo: Computador.
+                            33:00 
+El equipo Computador intento y fallo meter gol, La pelota le pertenece al equipo de Francia.
+                            36:00 
+El equipo Francia ha logrado un pase exitoso al jugador: 31.
+                            39:00 
+El equipo Francia intento y fallo meter gol, La pelota le pertenece al equipo de Computador.
+                            42:00 
+El equipo Computador intento y fallo meter gol, La pelota le pertenece al equipo de Francia. Se ha cometido una falta. La pelota ahora esta en manos del equipo: Francia.
+2do TIEMPO
+El equipo Francia ha realizado un pase fallido, la pelota pertenece al equipo de Computador.
+                            48:00 
+El equipo Computador intento y fallo meter gol, La pelota le pertenece al equipo de Francia.
+                            51:00 
+El equipo Francia ha logrado un pase exitoso al jugador: 23.La pelota ha salido de la cancha, ahora le pertenece al equipo: Computador.
+                            54:00 
+Ninguna accion importante fue tomada.La pelota ha salido de la cancha, ahora le pertenece al equipo: Computador.
+                            57:00 
+Ninguna accion importante fue tomada.
+                            60:00 
+Ninguna accion importante fue tomada.
+                            63:00 
+El equipo Computador ha anotado gol, la cuenta actual es: 1-1.
+                            66:00 
+El equipo Francia ha realizado un pase fallido, la pelota pertenece al equipo de Computador.El jugador numero 41 Ha recibido una tarjeta Amarilla.  Se ha cometido una falta. La pelota ahora esta en manos del equipo: Computador.
+                            69:00 
+Posicion adelantada(Regla #11) por parte de: 47.El equipo Computador ha realizado un pase fallido, la pelota pertenece al equipo de Francia. Se ha cometido una falta. La pelota ahora esta en manos del equipo: Francia.
+                            00:00 
+El equipo Francia ha realizado un pase fallido, la pelota pertenece al equipo de Computador.
+                            03:00 
+Ninguna accion importante fue tomada.
+                            06:00 
+El equipo Computador intento y fallo meter gol, La pelota le pertenece al equipo de Francia.
+                            00:00 
+El equipo Francia ha realizado un pase fallido, la pelota pertenece al equipo de Computador.
+                            03:00 
+El equipo Computador intento y fallo meter gol, La pelota le pertenece al equipo de Francia.
+                            06:00 
+El equipo Francia ha realizado un pase fallido, la pelota pertenece al equipo de Computador.
+                            09:00 
+Ninguna accion importante fue tomada.La pelota ha salido de la cancha, ahora le pertenece al equipo: Francia.
+                            12:00 
+Posicion adelantada(Regla #11) por parte de: 21.El equipo Francia ha realizado un pase fallido, la pelota pertenece al equipo de Computador.El jugador numero 24 Ha recibido una tarjeta roja. Razon por la cual fue suplantado por el jugador numero: 90. Se ha cometido una falta. La pelota ahora esta en manos del equipo: Computador.
+                            15:00 
+El equipo Computador ha anotado gol, la cuenta actual es: 0-1.El jugador numero 41 Ha recibido una tarjeta roja. Razon por la cual fue suplantado por el jugador numero: 79. Se ha cometido una falta. La pelota ahora esta en manos del equipo: Computador.
+                            18:00 
+El equipo Computador ha realizado un pase fallido, la pelota pertenece al equipo de Francia.
+                            21:00 
+El equipo Francia intento y fallo meter gol, La pelota le pertenece al equipo de Computador.
+                            24:00 
+El equipo Computador intento y fallo meter gol, La pelota le pertenece al equipo de Francia.El jugador numero 32 Ha recibido una tarjeta roja. Razon por la cual fue suplantado por el jugador numero: 56. Se ha cometido una falta. La pelota ahora esta en manos del equipo: Computador.
+                            27:00 
+El equipo Computador intento y fallo meter gol, La pelota le pertenece al equipo de Francia.
+                            00:00 
+El equipo Francia ha realizado un pase fallido, la pelota pertenece al equipo de Computador.
+                            03:00 
+Ninguna accion importante fue tomada.
+                            06:00 
+Ninguna accion importante fue tomada.La pelota ha salido de la cancha, ahora le pertenece al equipo: Francia.
+                            09:00 
+El equipo Francia ha realizado un pase fallido, la pelota pertenece al equipo de Computador. Se ha cometido una falta. La pelota ahora esta en manos del equipo: Computador.
+                            12:00 
+El equipo Computador ha logrado un pase exitoso al jugador: 46.La pelota ha salido de la cancha, ahora le pertenece al equipo: Francia.
+                            15:00 
+El equipo Francia intento y fallo meter gol, La pelota le pertenece al equipo de Computador.
+                            18:00 
+El equipo Computador intento y fallo meter gol, La pelota le pertenece al equipo de Francia.La pelota ha salido de la cancha, ahora le pertenece al equipo: Francia. Se ha cometido una falta. La pelota ahora esta en manos del equipo: Computador.
+                            21:00 
+El equipo Computador intento y fallo meter gol, La pelota le pertenece al equipo de Francia.El jugador numero 46 Ha recibido una tarjeta Amarilla.  Se ha cometido una falta. La pelota ahora esta en manos del equipo: Francia.
